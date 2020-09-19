@@ -20,7 +20,7 @@ higher goal values to determine if their success truly reflects reality.
 
 ### Analysis of Outcomes Based on Launch Date
 
-!Resources/Theater_Outcomes_vs_Launch.png
+![Theater_Coutcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 To create this graph, we formed a PivotTable where we observed the number of instances of outcomes between success/failure/canceled
 and compared them to the campaign start date. We see here that campaigns that start in the late spring/early summer are more
@@ -28,7 +28,7 @@ likely to succeed than campaigns that start during the traditional holiday seaso
 
 ### Analysis of Outcomes Based on Goals
 
-!Resources/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 To create this graph, we looked at Campaign Goal amounts and grouped them up itno an interval as defined in the graph. We
 then within each Goal group, we saw what percent of campaigns were successful, which ones failed, and which were canceled.
