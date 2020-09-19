@@ -36,7 +36,7 @@ then within each Goal group, we saw what percent of campaigns were successful, w
 A `=COUNTIFS` formula was used to determine how many instances of success/failure/cancelation occurred within each goal 
 interval like so: 
 
-=COUNTIFS(Kickstarter!$D:$D, "<1000", Kickstarter!$F:$F, "successful", Kickstarter!$O:$O, "plays")
+`=COUNTIFS(Kickstarter!$D:$D, "<1000", Kickstarter!$F:$F, "successful", Kickstarter!$O:$O, "plays")`
 
 We would take our main Kickstarter sheet, define the goal range, its outcome, then stratify our data specifically to the 
 plays subcategory.
